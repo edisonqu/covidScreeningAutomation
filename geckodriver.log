@@ -1,0 +1,1580 @@
+1657540088486	geckodriver	INFO	Listening on 127.0.0.1:49217
+1657540088682	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49218" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofile8A6Qgu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657540096477	Marionette	INFO	Listening on port 49223
+1657540096526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+1657540126525	geckodriver	INFO	Listening on 127.0.0.1:49506
+1657540126539	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49507" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileJtjWbx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657540129762	Marionette	INFO	Listening on port 49512
+1657540129865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657540143023	Marionette	INFO	Stopped listening on port 49223
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657540143681	Marionette	INFO	Stopped listening on port 49512
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657540236826	geckodriver	INFO	Listening on 127.0.0.1:50073
+1657540237349	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50074" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilePQDZWu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657540240526	Marionette	INFO	Listening on port 50085
+1657540240595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657540284856	geckodriver	INFO	Listening on 127.0.0.1:50368
+1657540285372	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50369" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileNxpACy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657540288818	Marionette	INFO	Listening on port 50378
+1657540288937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript warning: https://www.clarity.ms/eus-f/s/0.6.34/clarity.js, line 2: Script terminated by timeout at:
+In@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:31938
+Sn@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:30168
+Xe@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:24598
+Ue/</<@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:25521
+u/</<@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:6032
+u/<@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:6137
+Q/<@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:5074
+Q@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:4819
+Ue@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:25217
+Ba/</<@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:49215
+u/</<@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:6032
+u/<@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:6137
+Q/<@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:5074
+Q@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:4819
+Ba@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:49085
+kt@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:9814
+wt/</<@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:9755
+u/</<@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:6032
+u/<@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:6137
+Q/<@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:5074
+Q@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:4819
+wt@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:9516
+start@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:52157
+Ta/<@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:47916
+ei/<@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:53018
+ei@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:52979
+t[e]@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:53695
+@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:53734
+@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:53754
+@https://www.clarity.ms/eus-f/s/0.6.34/clarity.js:2:53757
+
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:934:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:708:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1657540474639	geckodriver	INFO	Listening on 127.0.0.1:51313
+1657540475153	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51314" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileOPTbvb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657540478391	Marionette	INFO	Listening on port 51325
+1657540478496	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657540483774	Marionette	INFO	Stopped listening on port 51325
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657540518595	Marionette	INFO	Stopped listening on port 50378
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657540520523	Marionette	INFO	Stopped listening on port 50085
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657540656949	geckodriver	INFO	Listening on 127.0.0.1:52154
+1657540657466	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52155" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileI3DJgE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657540661288	Marionette	INFO	Listening on port 52166
+1657540661370	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657540666873	Marionette	INFO	Stopped listening on port 52166
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657540674665	geckodriver	INFO	Listening on 127.0.0.1:52319
+1657540674677	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52320" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileOK177S"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657540677753	Marionette	INFO	Listening on port 52325
+1657540677814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657540730112	geckodriver	INFO	Listening on 127.0.0.1:52628
+1657540730644	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52629" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileDmGzcW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657540734023	Marionette	INFO	Listening on port 52640
+1657540734094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657540739720	Marionette	INFO	Stopped listening on port 52640
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657540795786	geckodriver	INFO	Listening on 127.0.0.1:52995
+1657540796315	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52996" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileFv3DxD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657540799660	Marionette	INFO	Listening on port 53005
+1657540799767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657541169864	geckodriver	INFO	Listening on 127.0.0.1:54650
+1657541170379	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54651" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileyr5eji"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1657541190819	geckodriver	INFO	Listening on 127.0.0.1:54777
+1657541190828	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54778" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileZ4TpJd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657541194170	Marionette	INFO	Listening on port 54784
+1657541194274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657541199044	Marionette	INFO	Stopped listening on port 54784
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657541206067	geckodriver	INFO	Listening on 127.0.0.1:54930
+1657541206079	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54931" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofiletWCde9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657541209315	Marionette	INFO	Listening on port 54936
+1657541209411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657541240399	Marionette	INFO	Stopped listening on port 54936
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657541241499	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1657541273674	geckodriver	INFO	Listening on 127.0.0.1:55292
+1657541273685	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55293" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilefSRzG9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657541276870	Marionette	INFO	Listening on port 55296
+1657541276925	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+1657541384150	Marionette	INFO	Stopped listening on port 53005
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657541387302	Marionette	INFO	Stopped listening on port 52325
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/page-style.js:573:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error writing request: getGrids"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+1657541626785	Marionette	INFO	Stopped listening on port 55296
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657541631982	geckodriver	INFO	Listening on 127.0.0.1:56866
+1657541632496	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56867" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofiler5HWnu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657541635873	Marionette	INFO	Listening on port 56876
+1657541635946	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657541647454	Marionette	INFO	Stopped listening on port 56876
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657541649854	geckodriver	INFO	Listening on 127.0.0.1:57037
+1657541649865	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57038" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofiles9wZ72"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657541652954	Marionette	INFO	Listening on port 57041
+1657541653014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657541673530	Marionette	INFO	Stopped listening on port 57041
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657541674891	geckodriver	INFO	Listening on 127.0.0.1:57231
+1657541674901	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57232" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofile3Csb1m"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657541678024	Marionette	INFO	Listening on port 57235
+1657541678061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657541684813	Marionette	INFO	Stopped listening on port 57235
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657542042619	geckodriver	INFO	Listening on 127.0.0.1:58815
+1657542042630	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58816" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileKesFgO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657542045760	Marionette	INFO	Listening on port 58819
+1657542045874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657542051168	Marionette	INFO	Stopped listening on port 58819
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657542106730	geckodriver	INFO	Listening on 127.0.0.1:59163
+1657542106741	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59164" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilePFFXZd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657542109858	Marionette	INFO	Listening on port 59167
+1657542109974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657542115182	Marionette	INFO	Stopped listening on port 59167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657542131123	geckodriver	INFO	Listening on 127.0.0.1:59345
+1657542131132	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59346" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileixDOKK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657542134241	Marionette	INFO	Listening on port 59349
+1657542134269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657542139249	Marionette	INFO	Stopped listening on port 59349
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657542139815	geckodriver	INFO	Listening on 127.0.0.1:59466
+1657542140328	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59467" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileOXr7Ov"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657542143410	Marionette	INFO	Listening on port 59472
+1657542143460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657542150436	Marionette	INFO	Stopped listening on port 59472
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657542190093	geckodriver	INFO	Listening on 127.0.0.1:59756
+1657542190104	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59757" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileoXvN2l"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657542193165	Marionette	INFO	Listening on port 59760
+1657542193228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657542203973	Marionette	INFO	Stopped listening on port 59760
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657542206782	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1657542656177	geckodriver	INFO	Listening on 127.0.0.1:61759
+1657542656692	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61760" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileZEoKzw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657542660434	Marionette	INFO	Listening on port 61769
+1657542660566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657542684114	Marionette	INFO	Stopped listening on port 61769
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657542757974	geckodriver	INFO	Listening on 127.0.0.1:62276
+1657542757997	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62277" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileSfjy63"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657542761328	Marionette	INFO	Listening on port 62280
+1657542761356	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657542769158	Marionette	INFO	Stopped listening on port 62280
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657544390776	geckodriver	INFO	Listening on 127.0.0.1:64060
+1657544391296	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64061" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileqqBX7l"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657544395088	Marionette	INFO	Listening on port 64066
+1657544395163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657544404236	Marionette	INFO	Stopped listening on port 64066
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657544770275	geckodriver	INFO	Listening on 127.0.0.1:49315
+1657544770288	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49316" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilemYnc1U"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657544773424	Marionette	INFO	Listening on port 49319
+1657544773537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657544779049	geckodriver	INFO	Listening on 127.0.0.1:49437
+1657544779562	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49438" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileIADNmG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657544783041	Marionette	INFO	Listening on port 49446
+1657544783120	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657544799427	Marionette	INFO	Stopped listening on port 49446
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657544800624	Marionette	INFO	Stopped listening on port 49319
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657544811728	geckodriver	INFO	Listening on 127.0.0.1:49676
+1657544811761	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49677" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileigeQTV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657544814946	Marionette	INFO	Listening on port 49680
+1657544815005	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657544820885	geckodriver	INFO	Listening on 127.0.0.1:49799
+1657544821399	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49800" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilels5Tkr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657544824529	Marionette	INFO	Listening on port 49815
+1657544824635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657544830926	geckodriver	INFO	Listening on 127.0.0.1:49934
+1657544831435	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49935" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileX9nhtE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657544834864	Marionette	INFO	Listening on port 49950
+1657544834969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657544844515	Marionette	INFO	Stopped listening on port 49950
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657544867633	Marionette	INFO	Stopped listening on port 49680
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657544889812	Marionette	INFO	Stopped listening on port 49815
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657591042925	geckodriver	INFO	Listening on 127.0.0.1:53175
+1657591042947	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53176" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilepTFd56"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657591050132	Marionette	INFO	Listening on port 53180
+1657591050233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657591065446	Marionette	INFO	Stopped listening on port 53180
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657591072283	geckodriver	INFO	Listening on 127.0.0.1:53409
+1657591072293	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53410" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilexQOKyL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657591075373	Marionette	INFO	Listening on port 53413
+1657591075437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657591090219	Marionette	INFO	Stopped listening on port 53413
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657591135634	geckodriver	INFO	Listening on 127.0.0.1:54245
+1657591135644	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54246" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilebYhjXC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657591138742	Marionette	INFO	Listening on port 54249
+1657591138795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657591146377	Marionette	INFO	Stopped listening on port 54249
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657591148650	geckodriver	INFO	Listening on 127.0.0.1:54575
+1657591148660	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54576" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofile4mXiKz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657591151739	Marionette	INFO	Listening on port 54580
+1657591151793	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657591158896	Marionette	INFO	Stopped listening on port 54580
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657591482370	geckodriver	INFO	Listening on 127.0.0.1:57143
+1657591482381	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57144" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilexVBQIG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657591485460	Marionette	INFO	Listening on port 57147
+1657591485508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657591492314	Marionette	INFO	Stopped listening on port 57147
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657591517244	geckodriver	INFO	Listening on 127.0.0.1:57265
+1657591517254	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57266" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileL5MUcd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657591520370	Marionette	INFO	Listening on port 57269
+1657591520497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657591537482	Marionette	INFO	Stopped listening on port 57269
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657591845819	geckodriver	INFO	Listening on 127.0.0.1:57434
+1657591846333	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57435" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileS2c2LG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657591849756	Marionette	INFO	Listening on port 57440
+1657591849865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657591864524	Marionette	INFO	Stopped listening on port 57440
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657591865103	geckodriver	INFO	Listening on 127.0.0.1:57525
+1657591865612	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57526" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileHcCFpv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657591868915	Marionette	INFO	Listening on port 57531
+1657591869060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657591883562	Marionette	INFO	Stopped listening on port 57531
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657591884134	geckodriver	INFO	Listening on 127.0.0.1:57614
+1657591884643	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57615" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileZY3ILp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657591887705	Marionette	INFO	Listening on port 57620
+1657591887774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657591902884	Marionette	INFO	Stopped listening on port 57620
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657591903435	geckodriver	INFO	Listening on 127.0.0.1:57701
+1657591903948	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57702" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilepK2l4x"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657591907035	Marionette	INFO	Listening on port 57707
+1657591907087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657591921538	Marionette	INFO	Stopped listening on port 57707
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657591922068	geckodriver	INFO	Listening on 127.0.0.1:57788
+1657591922583	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57789" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileYW0kvr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657591925661	Marionette	INFO	Listening on port 57794
+1657591925734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657591941246	Marionette	INFO	Stopped listening on port 57794
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657591951694	geckodriver	INFO	Listening on 127.0.0.1:57881
+1657591951705	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57882" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileoV8SLo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657591954872	Marionette	INFO	Listening on port 57885
+1657591954952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657591969833	Marionette	INFO	Stopped listening on port 57885
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657591970402	geckodriver	INFO	Listening on 127.0.0.1:57971
+1657591970911	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57972" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofile9Nab79"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657591974126	Marionette	INFO	Listening on port 57977
+1657591974160	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 93557, Chrome_ChildThread] WARNING: pipe error: Socket is not connected: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc:696
+Exiting due to channel error.
+1657591981665	geckodriver	INFO	Listening on 127.0.0.1:58049
+1657591981678	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58050" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilegvrOqZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657591984711	Marionette	INFO	Listening on port 58053
+1657591984821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657591999827	Marionette	INFO	Stopped listening on port 58053
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657592000447	geckodriver	INFO	Listening on 127.0.0.1:58137
+1657592000962	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58138" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofile2koLP3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657592004439	Marionette	INFO	Listening on port 58144
+1657592004521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657592018885	Marionette	INFO	Stopped listening on port 58144
+1657592019441	geckodriver	INFO	Listening on 127.0.0.1:58229
+1657592019951	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58230" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileFNRRip"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657592023173	Marionette	INFO	Listening on port 58235
+1657592023199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657592038538	Marionette	INFO	Stopped listening on port 58235
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657592039093	geckodriver	INFO	Listening on 127.0.0.1:58318
+1657592039607	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58319" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofile3Yvpr4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657592042769	Marionette	INFO	Listening on port 58324
+1657592042847	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657592057873	Marionette	INFO	Stopped listening on port 58324
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657592058447	geckodriver	INFO	Listening on 127.0.0.1:58411
+1657592058951	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58412" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileJEN43B"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657592062101	Marionette	INFO	Listening on port 58417
+1657592062177	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657592077222	Marionette	INFO	Stopped listening on port 58417
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657592130948	geckodriver	INFO	Listening on 127.0.0.1:58508
+1657592130960	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58509" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileXn6o8T"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657592133950	Marionette	INFO	Listening on port 58512
+1657592133996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657592300951	Marionette	INFO	Stopped listening on port 58512
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657594358364	geckodriver	INFO	Listening on 127.0.0.1:58928
+1657594358376	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58929" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilezkwwvp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657594361803	Marionette	INFO	Listening on port 58932
+1657594361959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657594372502	Marionette	INFO	Stopped listening on port 58932
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657594373061	geckodriver	INFO	Listening on 127.0.0.1:59105
+1657594373609	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59106" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileLVT42n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657594376758	Marionette	INFO	Listening on port 59113
+1657594376843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657594386426	Marionette	INFO	Stopped listening on port 59113
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657594386993	geckodriver	INFO	Listening on 127.0.0.1:59250
+1657594387507	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59251" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilelEJZJy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657594390554	Marionette	INFO	Listening on port 59261
+1657594390622	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1657594400711	Marionette	INFO	Stopped listening on port 59261
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657594401387	geckodriver	INFO	Listening on 127.0.0.1:59395
+1657594401900	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59396" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilezo1DnW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657594405543	Marionette	INFO	Listening on port 59404
+1657594405656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1657594415344	Marionette	INFO	Stopped listening on port 59404
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657594415888	geckodriver	INFO	Listening on 127.0.0.1:59576
+1657594416397	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59577" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofile6jTEKm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657594419550	Marionette	INFO	Listening on port 59589
+1657594419631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1657594429270	Marionette	INFO	Stopped listening on port 59589
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657594429839	geckodriver	INFO	Listening on 127.0.0.1:59898
+1657594430351	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59899" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofiledBOIFp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657594433387	Marionette	INFO	Listening on port 59914
+1657594433493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1657594443035	Marionette	INFO	Stopped listening on port 59914
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657679486360	geckodriver	INFO	Listening on 127.0.0.1:61150
+1657679486882	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61151" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileUJBGff"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657679492619	Marionette	INFO	Listening on port 61156
+1657679492665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657679510994	Marionette	INFO	Stopped listening on port 61156
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657679511554	geckodriver	INFO	Listening on 127.0.0.1:61603
+1657679512066	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61604" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilelkWmHX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657679515366	Marionette	INFO	Listening on port 61610
+1657679515452	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657679532604	Marionette	INFO	Stopped listening on port 61610
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657679533178	geckodriver	INFO	Listening on 127.0.0.1:61693
+1657679533684	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61694" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilelgrGue"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657679536914	Marionette	INFO	Listening on port 61699
+1657679536935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657679553506	Marionette	INFO	Stopped listening on port 61699
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657679554063	geckodriver	INFO	Listening on 127.0.0.1:61803
+1657679554573	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61804" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileejErEl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657679557942	Marionette	INFO	Listening on port 61809
+1657679558020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657679575892	Marionette	INFO	Stopped listening on port 61809
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657679576470	geckodriver	INFO	Listening on 127.0.0.1:61894
+1657679576978	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61895" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileA9jn8b"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657679580134	Marionette	INFO	Listening on port 61902
+1657679580223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657679597816	Marionette	INFO	Stopped listening on port 61902
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657679598382	geckodriver	INFO	Listening on 127.0.0.1:61987
+1657679598890	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61988" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileqFMh8k"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657679602057	Marionette	INFO	Listening on port 61994
+1657679602125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657679618856	Marionette	INFO	Stopped listening on port 61994
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657766690349	geckodriver	INFO	Listening on 127.0.0.1:59621
+1657766690875	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59622" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilefrPUPP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657766695175	Marionette	INFO	Listening on port 59627
+1657766695277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657766711865	Marionette	INFO	Stopped listening on port 59627
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657766712526	geckodriver	INFO	Listening on 127.0.0.1:59724
+1657766713035	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59725" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilek1Z9I7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657766716483	Marionette	INFO	Listening on port 59730
+1657766716589	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657766733326	Marionette	INFO	Stopped listening on port 59730
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657766733872	geckodriver	INFO	Listening on 127.0.0.1:59819
+1657766734382	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59820" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilee1cMDK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657766738336	Marionette	INFO	Listening on port 59825
+1657766738446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657766755058	Marionette	INFO	Stopped listening on port 59825
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657766755602	geckodriver	INFO	Listening on 127.0.0.1:59916
+1657766756116	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59917" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileuvSioj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657766759792	Marionette	INFO	Listening on port 59922
+1657766759895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657766777091	Marionette	INFO	Stopped listening on port 59922
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657766777633	geckodriver	INFO	Listening on 127.0.0.1:60011
+1657766778140	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60012" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilehc8P1e"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657766781594	Marionette	INFO	Listening on port 60017
+1657766781693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657766799966	Marionette	INFO	Stopped listening on port 60017
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657766800615	geckodriver	INFO	Listening on 127.0.0.1:60103
+1657766801126	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60104" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilea4ClXY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657766804620	Marionette	INFO	Listening on port 60109
+1657766804694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657766821926	Marionette	INFO	Stopped listening on port 60109
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657805985583	geckodriver	INFO	Listening on 127.0.0.1:58202
+1657805986105	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58203" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileDpdPQG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657805991658	Marionette	INFO	Listening on port 58208
+1657805991735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657806001729	Marionette	INFO	Stopped listening on port 58208
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657806002408	geckodriver	INFO	Listening on 127.0.0.1:58741
+1657806002923	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58742" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileBpO8Mb"
+1657852351285	geckodriver	INFO	Listening on 127.0.0.1:57713
+1657852351822	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57714" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilesgHhUJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657852356057	Marionette	INFO	Listening on port 57719
+1657852356138	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657852372489	Marionette	INFO	Stopped listening on port 57719
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657852373064	geckodriver	INFO	Listening on 127.0.0.1:57811
+1657852373576	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57812" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileui4wVD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657852377042	Marionette	INFO	Listening on port 57817
+1657852377126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657852394623	Marionette	INFO	Stopped listening on port 57817
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657852395198	geckodriver	INFO	Listening on 127.0.0.1:57903
+1657852395729	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57904" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilehocgwt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657852399718	Marionette	INFO	Listening on port 57909
+1657852399810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657852417026	Marionette	INFO	Stopped listening on port 57909
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657852417584	geckodriver	INFO	Listening on 127.0.0.1:58003
+1657852418099	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58004" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileQAH6pY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657852421923	Marionette	INFO	Listening on port 58009
+1657852421954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657852438366	Marionette	INFO	Stopped listening on port 58009
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657852438941	geckodriver	INFO	Listening on 127.0.0.1:58098
+1657852439473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58099" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileegy5Hb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657852443176	Marionette	INFO	Listening on port 58104
+1657852443241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657852460162	Marionette	INFO	Stopped listening on port 58104
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657852460729	geckodriver	INFO	Listening on 127.0.0.1:58191
+1657852461239	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58192" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileNfY6SO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657852465076	Marionette	INFO	Listening on port 58197
+1657852465189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657852482316	Marionette	INFO	Stopped listening on port 58197
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657852482885	geckodriver	INFO	Listening on 127.0.0.1:58289
+1657852483396	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58290" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofiledmVjBC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657852487115	Marionette	INFO	Listening on port 58295
+1657852487174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657852504657	Marionette	INFO	Stopped listening on port 58295
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657852572207	geckodriver	INFO	Listening on 127.0.0.1:58393
+1657852572218	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58394" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofile0u36A0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657852575605	Marionette	INFO	Listening on port 58397
+1657852575674	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657852592927	Marionette	INFO	Stopped listening on port 58397
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657852593496	geckodriver	INFO	Listening on 127.0.0.1:58483
+1657852594008	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58484" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilelf5C4J"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657852597809	Marionette	INFO	Listening on port 58489
+1657852597867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657852615037	Marionette	INFO	Stopped listening on port 58489
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657852615605	geckodriver	INFO	Listening on 127.0.0.1:58576
+1657852616132	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58577" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilebMLdP1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657852619951	Marionette	INFO	Listening on port 58582
+1657852620010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657852636504	Marionette	INFO	Stopped listening on port 58582
+1657852637071	geckodriver	INFO	Listening on 127.0.0.1:58672
+1657852637604	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58673" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilexwb8HJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657852641511	Marionette	INFO	Listening on port 58678
+1657852641588	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657852658689	Marionette	INFO	Stopped listening on port 58678
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657852659282	geckodriver	INFO	Listening on 127.0.0.1:58772
+1657852659786	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58773" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileRmP8FF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657852664403	Marionette	INFO	Listening on port 58778
+1657852664495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657852683273	Marionette	INFO	Stopped listening on port 58778
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657852683812	geckodriver	INFO	Listening on 127.0.0.1:58888
+1657852684324	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58889" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofile2Lsf3I"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657852687629	Marionette	INFO	Listening on port 58894
+1657852687665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657852704679	Marionette	INFO	Stopped listening on port 58894
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657852705245	geckodriver	INFO	Listening on 127.0.0.1:58977
+1657852705765	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58978" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileuKbYQd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657852709508	Marionette	INFO	Listening on port 58983
+1657852709535	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657852726203	Marionette	INFO	Stopped listening on port 58983
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657938240961	geckodriver	INFO	Listening on 127.0.0.1:56129
+1657938241510	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56130" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofile1uhTlG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657938248097	Marionette	INFO	Listening on port 56149
+1657938248200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657938266441	Marionette	INFO	Stopped listening on port 56149
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657938267258	geckodriver	INFO	Listening on 127.0.0.1:56860
+1657938267774	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56861" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileaJHqCa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657938272723	Marionette	INFO	Listening on port 56877
+1657938272797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657938287798	Marionette	INFO	Stopped listening on port 56877
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657938288484	geckodriver	INFO	Listening on 127.0.0.1:57082
+1657938288990	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57083" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilendIbNU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657938293634	Marionette	INFO	Listening on port 57088
+1657938293662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657938308342	Marionette	INFO	Stopped listening on port 57088
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657938308905	geckodriver	INFO	Listening on 127.0.0.1:57193
+1657938309427	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57194" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileEefDdJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657938313193	Marionette	INFO	Listening on port 57199
+1657938313271	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657938328117	Marionette	INFO	Stopped listening on port 57199
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657938328686	geckodriver	INFO	Listening on 127.0.0.1:57296
+1657938329198	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57297" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileQgPpfd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657938333333	Marionette	INFO	Listening on port 57302
+1657938333388	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657938348962	Marionette	INFO	Stopped listening on port 57302
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657938349514	geckodriver	INFO	Listening on 127.0.0.1:57393
+1657938350036	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57394" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileFXytZu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657938353743	Marionette	INFO	Listening on port 57399
+1657938353799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657938368083	Marionette	INFO	Stopped listening on port 57399
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657938368650	geckodriver	INFO	Listening on 127.0.0.1:57488
+1657938369157	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57489" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileEztz6J"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657938372444	Marionette	INFO	Listening on port 57494
+1657938372509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657938386259	Marionette	INFO	Stopped listening on port 57494
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657938386813	geckodriver	INFO	Listening on 127.0.0.1:57577
+1657938387320	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57578" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilejvW9x0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1657938392521	geckodriver	INFO	Listening on 127.0.0.1:57624
+1657938392534	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57625" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilebCQp3M"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657938395595	Marionette	INFO	Listening on port 57628
+1657938395684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657938415115	Marionette	INFO	Stopped listening on port 57628
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657938416001	geckodriver	INFO	Listening on 127.0.0.1:57711
+1657938416514	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57712" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilegOOcgD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657938419761	Marionette	INFO	Listening on port 57717
+1657938419833	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657938436603	Marionette	INFO	Stopped listening on port 57717
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657938437153	geckodriver	INFO	Listening on 127.0.0.1:57816
+1657938437661	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57817" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilekEbyCG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657938441378	Marionette	INFO	Listening on port 57822
+1657938441409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657938458211	Marionette	INFO	Stopped listening on port 57822
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657938458789	geckodriver	INFO	Listening on 127.0.0.1:57917
+1657938459315	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57918" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileq056kU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657938463022	Marionette	INFO	Listening on port 57923
+1657938463094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657938478849	Marionette	INFO	Stopped listening on port 57923
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657938479406	geckodriver	INFO	Listening on 127.0.0.1:58010
+1657938479935	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58011" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileZ1mXxn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657938483569	Marionette	INFO	Listening on port 58016
+1657938483685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657938499281	Marionette	INFO	Stopped listening on port 58016
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657938499851	geckodriver	INFO	Listening on 127.0.0.1:58103
+1657938500370	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58104" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileQglb3d"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657938504171	Marionette	INFO	Listening on port 58109
+1657938504246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657938519913	Marionette	INFO	Stopped listening on port 58109
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657938520471	geckodriver	INFO	Listening on 127.0.0.1:58197
+1657938520984	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58198" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileohwLAl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657938524828	Marionette	INFO	Listening on port 58203
+1657938524940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657938540886	Marionette	INFO	Stopped listening on port 58203
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657938541455	geckodriver	INFO	Listening on 127.0.0.1:58295
+1657938541990	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58296" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileRJslxJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1657938545807	Marionette	INFO	Listening on port 58301
+1657938545919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1657938561739	Marionette	INFO	Stopped listening on port 58301
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658025823844	geckodriver	INFO	Listening on 127.0.0.1:63876
+1658025824347	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63877" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileEIuKKb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658025828536	Marionette	INFO	Listening on port 63889
+1658025828642	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658025846557	Marionette	INFO	Stopped listening on port 63889
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658025847164	geckodriver	INFO	Listening on 127.0.0.1:64502
+1658025847681	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64503" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileolxGOs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658025851631	Marionette	INFO	Listening on port 64520
+1658025851737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658025867066	Marionette	INFO	Stopped listening on port 64520
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658025867641	geckodriver	INFO	Listening on 127.0.0.1:64705
+1658025868155	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64706" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileQmCwXW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658025871842	Marionette	INFO	Listening on port 64711
+1658025871907	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658025888254	Marionette	INFO	Stopped listening on port 64711
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658025888812	geckodriver	INFO	Listening on 127.0.0.1:64801
+1658025889326	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64802" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileqxgb3e"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658025892454	Marionette	INFO	Listening on port 64807
+1658025892547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658025908395	Marionette	INFO	Stopped listening on port 64807
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658025908959	geckodriver	INFO	Listening on 127.0.0.1:64891
+1658025909472	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64892" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileHeEI6U"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658025913273	Marionette	INFO	Listening on port 64897
+1658025913333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658025929028	Marionette	INFO	Stopped listening on port 64897
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658025929588	geckodriver	INFO	Listening on 127.0.0.1:64986
+1658025930122	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64987" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileKrkBy2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658025933596	Marionette	INFO	Listening on port 64992
+1658025933663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658025950184	Marionette	INFO	Stopped listening on port 64992
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658025950752	geckodriver	INFO	Listening on 127.0.0.1:65079
+1658025951268	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65080" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofiletWfpfV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658025954396	Marionette	INFO	Listening on port 65085
+1658025954497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658095795847	geckodriver	INFO	Listening on 127.0.0.1:49608
+1658095796360	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49609" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileWllLxW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658095800037	Marionette	INFO	Listening on port 49622
+1658095800108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658095820909	Marionette	INFO	Stopped listening on port 49622
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658095821552	geckodriver	INFO	Listening on 127.0.0.1:50201
+1658095822065	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50202" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilecRKBmZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658095826043	Marionette	INFO	Listening on port 50222
+1658095826124	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658095843947	Marionette	INFO	Stopped listening on port 50222
+1658095844734	geckodriver	INFO	Listening on 127.0.0.1:50695
+1658095845242	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50696" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileq5bQ5w"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658095848712	Marionette	INFO	Listening on port 50704
+1658095848785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658095866458	Marionette	INFO	Stopped listening on port 50704
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658095867029	geckodriver	INFO	Listening on 127.0.0.1:51077
+1658095867539	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51078" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofile6kf4jI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658095871019	Marionette	INFO	Listening on port 51098
+1658095871078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658095890189	Marionette	INFO	Stopped listening on port 51098
+1658095890842	geckodriver	INFO	Listening on 127.0.0.1:51538
+1658095891352	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51539" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileSa58XL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658095894966	Marionette	INFO	Listening on port 51546
+1658095895076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658095912453	Marionette	INFO	Stopped listening on port 51546
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658095913034	geckodriver	INFO	Listening on 127.0.0.1:51984
+1658095913538	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51985" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileaoRaFa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658095916975	Marionette	INFO	Listening on port 51990
+1658095917051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658095935675	Marionette	INFO	Stopped listening on port 51990
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658095936238	geckodriver	INFO	Listening on 127.0.0.1:52475
+1658095936745	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52476" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileWElgHZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658095940217	Marionette	INFO	Listening on port 52496
+1658095940302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658095959214	Marionette	INFO	Stopped listening on port 52496
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658095959775	geckodriver	INFO	Listening on 127.0.0.1:52964
+1658095960286	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52965" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileReTD7i"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658095963836	Marionette	INFO	Listening on port 52986
+1658095963921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658095983417	Marionette	INFO	Stopped listening on port 52986
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658096042108	geckodriver	INFO	Listening on 127.0.0.1:54783
+1658096042621	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54784" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileyrltmk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658096046195	Marionette	INFO	Listening on port 54816
+1658096046268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658096061662	Marionette	INFO	Stopped listening on port 54816
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658096062225	geckodriver	INFO	Listening on 127.0.0.1:55273
+1658096062744	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55274" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileaWNldv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658096066254	Marionette	INFO	Listening on port 55297
+1658096066291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658096081854	Marionette	INFO	Stopped listening on port 55297
+1658096127866	Marionette	INFO	Stopped listening on port 65085
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658107777902	geckodriver	INFO	Listening on 127.0.0.1:57437
+1658107778421	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57438" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileNGCsXB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658107782318	Marionette	INFO	Listening on port 57461
+1658107782406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658107798079	Marionette	INFO	Stopped listening on port 57461
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658107798645	geckodriver	INFO	Listening on 127.0.0.1:57800
+1658107799162	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57801" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileZHAVz5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658107802608	Marionette	INFO	Listening on port 57818
+1658107802724	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658107818145	Marionette	INFO	Stopped listening on port 57818
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658107818708	geckodriver	INFO	Listening on 127.0.0.1:58055
+1658107819236	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58056" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileqTzmbc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658107822761	Marionette	INFO	Listening on port 58064
+1658107822884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658107838610	Marionette	INFO	Stopped listening on port 58064
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658107839185	geckodriver	INFO	Listening on 127.0.0.1:58284
+1658107839694	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58285" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofile98Q57h"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658107842976	Marionette	INFO	Listening on port 58299
+1658107843042	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658107858872	Marionette	INFO	Stopped listening on port 58299
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658107859444	geckodriver	INFO	Listening on 127.0.0.1:58599
+1658107859973	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58600" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilee40wML"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658107863451	Marionette	INFO	Listening on port 58614
+1658107863532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658107879469	Marionette	INFO	Stopped listening on port 58614
+1658107880072	geckodriver	INFO	Listening on 127.0.0.1:58854
+1658107880595	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58855" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileEyFhTR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658107884193	Marionette	INFO	Listening on port 58869
+1658107884258	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658107899990	Marionette	INFO	Stopped listening on port 58869
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658107900560	geckodriver	INFO	Listening on 127.0.0.1:59096
+1658107901085	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59097" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileUxOVTW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658107904522	Marionette	INFO	Listening on port 59113
+1658107904641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658107922401	Marionette	INFO	Stopped listening on port 59113
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658107923008	geckodriver	INFO	Listening on 127.0.0.1:59399
+1658107923581	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59400" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileeBdCSf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658107927109	Marionette	INFO	Listening on port 59409
+1658107927228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658107944578	Marionette	INFO	Stopped listening on port 59409
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658108126461	geckodriver	INFO	Listening on 127.0.0.1:59731
+1658108126474	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59732" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofile9Tccta"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658108129850	Marionette	INFO	Listening on port 59735
+1658108129922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658108146954	Marionette	INFO	Stopped listening on port 59735
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658108147601	geckodriver	INFO	Listening on 127.0.0.1:59819
+1658108148117	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59820" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileGDbFao"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658108151684	Marionette	INFO	Listening on port 59825
+1658108151763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658108167897	Marionette	INFO	Stopped listening on port 59825
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658108168765	geckodriver	INFO	Listening on 127.0.0.1:59914
+1658108169277	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59915" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofile98xd5K"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658108172765	Marionette	INFO	Listening on port 59920
+1658108172833	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658108188151	Marionette	INFO	Stopped listening on port 59920
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658108188695	geckodriver	INFO	Listening on 127.0.0.1:60009
+1658108189205	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60010" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileahrpRh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658108192566	Marionette	INFO	Listening on port 60015
+1658108192656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658108208377	Marionette	INFO	Stopped listening on port 60015
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658108208924	geckodriver	INFO	Listening on 127.0.0.1:60101
+1658108209436	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60102" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilenF4jbR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658108212740	Marionette	INFO	Listening on port 60107
+1658108212780	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658108229454	Marionette	INFO	Stopped listening on port 60107
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658108230018	geckodriver	INFO	Listening on 127.0.0.1:60193
+1658108230531	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60194" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofile1fncNM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658108234019	Marionette	INFO	Listening on port 60199
+1658108234059	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658108249342	Marionette	INFO	Stopped listening on port 60199
+1658108250176	geckodriver	INFO	Listening on 127.0.0.1:60287
+1658108250692	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60288" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileG9xKMo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658108254138	Marionette	INFO	Listening on port 60293
+1658108254242	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658108269700	Marionette	INFO	Stopped listening on port 60293
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658108270241	geckodriver	INFO	Listening on 127.0.0.1:60378
+1658108270753	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60379" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilenIXI8h"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658108274315	Marionette	INFO	Listening on port 60384
+1658108274405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658108289571	Marionette	INFO	Stopped listening on port 60384
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658112326260	geckodriver	INFO	Listening on 127.0.0.1:52677
+1658112326288	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52678" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileLXAN9M"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658112330323	Marionette	INFO	Listening on port 52681
+1658112330382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658112346310	Marionette	INFO	Stopped listening on port 52681
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658112346887	geckodriver	INFO	Listening on 127.0.0.1:52771
+1658112347400	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52772" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileAt77kg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658112350840	Marionette	INFO	Listening on port 52777
+1658112350959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658112367376	Marionette	INFO	Stopped listening on port 52777
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658112367943	geckodriver	INFO	Listening on 127.0.0.1:52863
+1658112368454	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52864" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileTdSlOh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658112371683	Marionette	INFO	Listening on port 52869
+1658112371799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658112389881	Marionette	INFO	Stopped listening on port 52869
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658112390446	geckodriver	INFO	Listening on 127.0.0.1:52957
+1658112390953	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52958" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilejlBXTG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658112394173	Marionette	INFO	Listening on port 52963
+1658112394194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658112410222	Marionette	INFO	Stopped listening on port 52963
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658112410771	geckodriver	INFO	Listening on 127.0.0.1:53046
+1658112411282	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53047" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileFyJYbp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658112414597	Marionette	INFO	Listening on port 53052
+1658112414623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658112430584	Marionette	INFO	Stopped listening on port 53052
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658112431141	geckodriver	INFO	Listening on 127.0.0.1:53139
+1658112431651	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53140" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofile9HkiRd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658112435027	Marionette	INFO	Listening on port 53146
+1658112435106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658112450475	Marionette	INFO	Stopped listening on port 53146
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658112451040	geckodriver	INFO	Listening on 127.0.0.1:53230
+1658112451547	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53231" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileMGsK83"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658112454828	Marionette	INFO	Listening on port 53236
+1658112454887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658112470486	Marionette	INFO	Stopped listening on port 53236
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658112471047	geckodriver	INFO	Listening on 127.0.0.1:53321
+1658112471559	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53322" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofile7FAeIA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658112474960	Marionette	INFO	Listening on port 53327
+1658112475018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658112491096	Marionette	INFO	Stopped listening on port 53327
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658141305817	geckodriver	INFO	Listening on 127.0.0.1:55656
+1658141306342	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55657" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileSTt3Xj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658141310596	Marionette	INFO	Listening on port 55688
+1658141310642	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658141334481	Marionette	INFO	Stopped listening on port 55688
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658199587420	geckodriver	INFO	Listening on 127.0.0.1:50331
+1658199587929	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50332" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileWkEjG9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658199592401	Marionette	INFO	Listening on port 50339
+1658199592459	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658199608907	Marionette	INFO	Stopped listening on port 50339
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658199690521	geckodriver	INFO	Listening on 127.0.0.1:50515
+1658199690538	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50516" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileQUlmJK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658199694117	Marionette	INFO	Listening on port 50521
+1658199694201	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1658199703224	Marionette	INFO	Stopped listening on port 50521
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658199703806	geckodriver	INFO	Listening on 127.0.0.1:50606
+1658199704316	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50607" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilexwskQ6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658199708417	Marionette	INFO	Listening on port 50614
+1658199708487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1658199717510	Marionette	INFO	Stopped listening on port 50614
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658199718085	geckodriver	INFO	Listening on 127.0.0.1:50706
+1658199718597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50707" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileODSf5c"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658199721692	Marionette	INFO	Listening on port 50714
+1658199721759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1658199731915	Marionette	INFO	Stopped listening on port 50714
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658199732481	geckodriver	INFO	Listening on 127.0.0.1:50795
+1658199732993	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50796" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileMIIrCl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658199737163	Marionette	INFO	Listening on port 50801
+1658199737251	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1658199746268	Marionette	INFO	Stopped listening on port 50801
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658199747014	geckodriver	INFO	Listening on 127.0.0.1:50894
+1658199747524	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50895" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileRYfHvK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658199751481	Marionette	INFO	Listening on port 50900
+1658199751501	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TB37L6, line 49: NS_ERROR_NOT_INITIALIZED: 
+1658199950803	geckodriver	INFO	Listening on 127.0.0.1:51543
+1658199950817	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51544" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilemp5Vo2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658199954795	Marionette	INFO	Listening on port 51547
+1658199954902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1658199972393	Marionette	INFO	Stopped listening on port 51547
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658199973477	geckodriver	INFO	Listening on 127.0.0.1:51651
+1658199973987	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51652" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileK4AlGM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658199977774	Marionette	INFO	Listening on port 51661
+1658199977854	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658199997274	Marionette	INFO	Stopped listening on port 51661
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658199997817	geckodriver	INFO	Listening on 127.0.0.1:51782
+1658199998331	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51783" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofileOx4jV8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658200001949	Marionette	INFO	Listening on port 51788
+1658200001988	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658200019189	Marionette	INFO	Stopped listening on port 51788
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658200019744	geckodriver	INFO	Listening on 127.0.0.1:51883
+1658200020253	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51884" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilekh2JqZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658200023686	Marionette	INFO	Listening on port 51889
+1658200023810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1658200039853	Marionette	INFO	Stopped listening on port 51889
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658200040754	geckodriver	INFO	Listening on 127.0.0.1:51975
+1658200041270	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51976" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/rx/2rf1rjd55wz3hxxzz4_jrd5w0000gn/T/rust_mozprofilevhBIYZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1658200046238	Marionette	INFO	Listening on port 51981
+1658200046312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658200062115	Marionette	INFO	Stopped listening on port 51981
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658200107475	Marionette	INFO	Stopped listening on port 50900
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
